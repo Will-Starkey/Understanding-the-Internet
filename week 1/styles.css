@@ -1,0 +1,50 @@
+.make-blue {
+  color: blue;
+}
+.make-bold {
+  font-weight: bold;
+}
+.make-red {
+  color: red;
+}
+.first {
+  border: 2px solid aqua;
+  background-color: blueviolet;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.second {
+  border: 3px solid maroon;
+  background-color: aquamarine;
+  color: hotpink;
+  font-family: fantasy;
+}
+.third {
+  background-color: lightsalmon;
+  border: 3px solid aquamarine;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.first-h2 {
+  color: red;
+}
+.second-h2 {
+  background-color: black;
+  color: red;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.third-h2 {
+  background-color: blue;
+  color: greenyellow;
+}
+
+.fourth-h2 {
+  color: orange;
+}
+.first-button {
+  color: white;
+  background-color: blue;
+  border: 2px solid red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  border-radius: 6.5px;
+}
